@@ -45,35 +45,57 @@ SGC app should get the input and display the output as specified in the snapshot
 
 
 Sample Input 1:
+
 Enter the id:
+
 123
+
 Enter the name:
+
 Tom
+
 Enter the no of subjects:
+
 3
+
 Enter mark for subject 1:
+
 95
+
 Enter mark for subject 2:
+
 80
+
 Enter mark for subject 3:
+
 75
+
 
 Sample Output 1:
 
 Id:123
+
 Name:Tom
+
 Average:83.33
+
 Grade:O
 
 
 
 Sample Input 2:
 
+
 Enter the id:
+
 123
+
 Enter the name:
+
 Tom
+
 Enter the no of subjects:
+
 0
 
 Invalid number of subject
@@ -81,16 +103,28 @@ Invalid number of subject
 Enter the no of subjects:
 
 3
+
 Enter mark for subject 1:
+
 75
+
 Enter mark for subject 2:
+
 49
+
 Enter mark for subject 3:
+
 90
+
 
 Sample Output 2:
 
+
 Id:123
+
 Name:Tom
+
 Average:71.33
+
 Grade:F
+
