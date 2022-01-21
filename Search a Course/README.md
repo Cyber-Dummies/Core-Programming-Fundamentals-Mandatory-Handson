@@ -7,7 +7,9 @@ IIHT institution is offering a variety of courses to students. Students have a f
 
 Assume maximum number of courses is 20.
 
+
 Sample Input 1:
+
 Enter no of course:
 5
 Enter course names:
